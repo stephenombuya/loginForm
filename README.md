@@ -66,5 +66,5 @@ Login-Page/
 Contributions are welcome! If you have ideas or suggestions to improve the project, feel free to fork the repository and submit a pull request.
 
 ### **License**
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/stephenombuya/loginForm/blob/main/LICENSE) file for more details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE. See the [LICENSE](https://github.com/stephenombuya/loginForm/blob/main/LICENSE) file for more details.
 
